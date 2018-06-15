@@ -1,0 +1,28 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/63/Marvel_Studios_logo.svg");
+}
+
+.container {
+    background-image: url("https://media.giphy.com/media/DgJutSXhzS4bC/giphy.gif");
+}
+
+.Marvel {
+    font-family: 'Bangers', cursive;
+    font-size: 80px;
+    color: greenyellow;
+}
+
+#addGif {
+    font-family: 'Bangers', cursive;
+    font-size: 30px;
+}
+
+#button-display {
+    font-family: 'Bangers', cursive;
+    font-size: 50px;
+}
+
+#credits {
+    font-size: 25px;
+    font-family: 'Bangers', cursive;
+}
